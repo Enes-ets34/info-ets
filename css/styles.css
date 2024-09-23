@@ -9836,6 +9836,9 @@ a.text-info:hover, a.text-info:focus {
 .text-orange {
   color: #e34c26 !important;
 }
+.text-sky {
+  color: #61dbfb !important;
+}
 
 a.text-warning:hover, a.text-warning:focus {
   color: #ba8b00 !important;
